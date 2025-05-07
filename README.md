@@ -35,7 +35,7 @@ AI-Powered Storyboard Creator project is to develop a generative AI tool that au
  ## 📄 License
  This project is licensed under the [MIT License](LICENSE).
 
- ## Powered By
+ ## 📡 Powered By
  - Stable Diffusion (`stabilityai/sdxl-turbo`)
  - Gradio
  - Hugging Face Spaces
