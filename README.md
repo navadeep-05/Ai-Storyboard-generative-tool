@@ -17,10 +17,8 @@ AI-Powered Storyboard Creator project is to develop a generative AI tool that au
 ## 🎯 Objective
  Create visual storyboards from text prompts using Stable Diffusion.
 
----
 ## 🔗 URL
 [Visit the app here!](https://navadeep-j-storyboardgenerator.hf.space/)
----
 
  ## 🚀 Usage
  1. Visit the URL.
