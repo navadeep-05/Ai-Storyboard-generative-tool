@@ -3,7 +3,7 @@ AI-Powered Storyboard Creator project is to develop a generative AI tool that au
 
 ---
 title: Ai Storyboard Generator
-emoji: 🐨
+emoji: 🐨\\
 colorFrom: purple
 colorTo: indigo
 sdk: gradio
