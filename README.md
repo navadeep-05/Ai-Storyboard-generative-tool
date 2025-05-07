@@ -10,7 +10,6 @@ AI-Powered Storyboard Creator project is to develop a generative AI tool that au
 - **License**: MIT
 - **Description**: Simple AI-powered website for generating storyboards for movies, games, and ads.
 - **sdk**: gradio
-- **sdk_version**: 5.29.0
 - **app_file**: app.py
 - **pinned**: false
 ---
@@ -21,6 +20,7 @@ AI-Powered Storyboard Creator project is to develop a generative AI tool that au
 ---
 ## 🔗 URL
 [Visit the app here!](https://navadeep-j-storyboardgenerator.hf.space/)
+---
 
  ## 🚀 Usage
  1. Visit the URL.
